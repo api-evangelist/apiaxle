@@ -1,0 +1,58 @@
+{
+    "name": "ApiAxle",
+    "description": "ApiAxle is a proxy that sits on your network, in front of your API(s) and manages things that you shouldn't have to, like rate limiting, authentication and caching. It is fast, open and easy to configure. ?ApiAxle is different to the cloud based services such as Mashery in that it is intended to be installed within your LAN and be managed by you. This means you own your users, you own your data and you can more easily manage costs. ApiAxle is open-source. This means you can modify it as much as you like and contribute changes back. Others will do the same and gradually the system will become all the better for it.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-axle-logo-3.png",
+    "tags": [
+        "api service provider",
+        "deployment",
+        "gateway",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apiaxle\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ApiAxle",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-axle-logo-3.png",
+            "humanURL": "http:\/\/apiaxle.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.apiaxle.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.apiaxle.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.apiaxle.com\/feed.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/apiaxle"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/apiaxle"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apiaxle"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/apiaxle.com\/"
+        }
+    ]
+}
